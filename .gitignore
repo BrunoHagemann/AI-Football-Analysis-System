@@ -1,0 +1,12 @@
+runs/
+models/
+output_videos/
+input_videos/
+stubs/
+*.mp4
+*.avi
+*.pt
+*.pkl
+__pycache__/
+*.pyc
+training/football-players-detection-*/
