@@ -1,11 +1,8 @@
 runs/
-models/
-output_videos/
-input_videos/
-stubs/
 *.mp4
 *.avi
 *.pt
+*.jpg
 *.pkl
 __pycache__/
 *.pyc
